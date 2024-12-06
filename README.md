@@ -32,15 +32,6 @@ The goal of this project is to create a robust deep learning model capable of de
 
 ---
 
-## **Installation**
-
-1. **Clone the Repository**  
-   Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/KimcMat/brain-tumor-detection.git
-   cd brain-tumor-detection
-   ```
-
 2. **Set up the environment**  
    This project requires Python 3.6+ and the following dependencies:
    - TensorFlow
